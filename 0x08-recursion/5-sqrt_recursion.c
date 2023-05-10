@@ -3,7 +3,7 @@
   * sqrt2 - Makes possible to evaluate from 1 to n
   * @a: Same number as n
   * @b: Number that iterates from 1 to n
-  * Return: On success 1, on error, -1 is returned, and errno is set approprietly
+  * Return: On success 1, on error, -1 is returned
   */
 int sqrt2(int a, int b)
 {
